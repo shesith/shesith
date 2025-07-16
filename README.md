@@ -2,7 +2,7 @@
   <img src="https://yourdomain.com/banner.gif" alt="Welcome banner" />
 </p>
 
-<h1 align="center">Hi there 👋 I'm Abigail Shesith Miñano Rodriguez</h1>
+<h1 align="center">Hi there 👋 I'm Abigail Miñano Rodriguez</h1>
 
 🎨 **Software Engineering Student with Artificial Intelligence**  
 I'm a passionate Training Student with Artificial Intelligence in front- and back-end web development. Hands-on experience with technologies such as JavaScript, React, Node.js, HTML5, CSS3, and SQL databases. Hands-on experience using tools such as Git, GitHub, Figma, Postman, and Visual Studio Code. 
