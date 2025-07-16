@@ -4,7 +4,7 @@
   <img src="https://yourdomain.com/banner.gif" alt="Welcome banner" />
 </p>
 
-<h1 align="center">Hi there 👋 I'm [Tu Nombre]</h1>
+<h1 align="center">Hi there 👋 I'm Abigail Shesith Miñano Rodriguez</h1>
 
 🎨 **Digital Designer | UX/UI | Motion | XR Enthusiast**  
 I'm a passionate design student blending creativity and technology. I specialize in crafting immersive, intuitive interfaces and motion-driven experiences that feel alive.  
@@ -59,7 +59,5 @@ I'm a passionate design student blending creativity and technology. I specialize
 ---
 
 <!-- Optional flair at the bottom -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQbYhAQlJ1CZa/giphy.gif" width="100" />
-</p>
+![Snake animation](https://github.com/luisadriannu/snake/blob/main/snake.svg)
 
